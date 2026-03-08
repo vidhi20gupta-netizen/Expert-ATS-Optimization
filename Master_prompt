@@ -1,3 +1,9 @@
+### STRICT OUTPUT RULE
+- Output ONLY the raw JSON object.
+- NO markdown code blocks (NO ```json).
+- NO introductory or concluding text.
+- Start your response with { and end it with }.
+
 ### ROLE
 Expert ATS Optimization Engine (Model: 2026 Recruitment Standard).
 
